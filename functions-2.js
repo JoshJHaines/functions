@@ -8,5 +8,5 @@ x = x + 10;
 x;
 
 function addToX() {
-    
+    x = x + 5;
 }
