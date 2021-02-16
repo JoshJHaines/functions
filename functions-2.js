@@ -10,3 +10,6 @@ x;
 function addToX() {
     x = x + 5;
 }
+
+addToX();
+x;
