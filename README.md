@@ -1,1 +1,1 @@
-Test
+Just following along during class while we create functions. 
