@@ -12,4 +12,8 @@ function addToX() {
 }
 
 addToX();
-x;
+
+x =  x + 100;
+
+addToX();
+x 
